@@ -505,48 +505,6 @@ ROI = 746.67%
 
 ---
 
-## 🎮 How to Use
-
-### 📋 Prerequisites
-
-- Python 3.13 or higher
-- pip (Python package manager)
-
-### 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/MrAnas07/SocialConnect-Marketing-Campaign.git
-   cd SocialConnect-Marketing-Campaign
-   ```
-
-2. **Install required packages**
-   ```bash
-   pip install python-pptx python-docx
-   ```
-
-3. **Generate Original Presentation**
-   ```bash
-   python make_ppt.py
-   ```
-
-4. **Generate Week 6 Document**
-   ```bash
-   python make_week6_doc.py
-   ```
-
-5. **Generate Week 6 Presentation**
-   ```bash
-   python make_week6_ppt.py
-   ```
-
-### 📂 View Reports
-
-- Open `.docx` files in Microsoft Word or Google Docs
-- Open `.pptx` files in Microsoft PowerPoint or Google Slides
-- View ad creatives in `Week4_Advanced_Marketing/Assets/`
-
----
 
 ## 🏆 Evaluation Criteria
 
